@@ -3,7 +3,7 @@
 # LIBFT [subject](es.libft.pdf)
 
 >[!NOTE]
->LA LIBRERÍA HA SIDO MODIFICADA AÑADIENDO NUEVAS FUNCIONES Y MODIFICANDO ALGUNAS FUNCIONES EXISTENTES, CON LO CUAL NO PASARÍA LA MOULINETTE. PARA VER LAS FUNCIONES ORIGINALES QUE ENTREGÉ EN LA PLATAFORMA, VER [LIBFT ORIGINAL](/../../libft_original/)
+>LA LIBRERÍA HA SIDO MODIFICADA AÑADIENDO NUEVAS FUNCIONES Y MODIFICANDO ALGUNAS FUNCIONES EXISTENTES, CON LO CUAL NO PASARÍA LA MOULINETTE. PARA VER LAS FUNCIONES ORIGINALES QUE ENTREGÉ EN LA PLATAFORMA, VER [LIBFT ORIGINAL](./../../libft_original)
 
 <table align="center">
 <caption>Tabla de contenidos</caption>
@@ -775,4 +775,6 @@ https://cdn.sparkfun.com/assets/home_page_posts/2/1/2/1/ascii_table_black.png
 
 - size_t: size_t es un tipo de datos utilizado en C y C++ para representar el tamaño de objetos en bytes.
 
-[$${\color{red}VOLVER}$$](../../README.md)
+
+$${\color{red}[VOLVER](../../README.md)}$$
+
