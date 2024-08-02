@@ -3,7 +3,9 @@
 $${\color{red}KICKOFF\space08/04/2024}$$
 
 # 42 CURSUS
-	Campus 42 es un innovador proyecto educativo en programación y desarrollo de software que ha ganado popularidad por su enfoque no tradicional. Esta iniciativa fue creada originalmente en Francia por el empresario Xavier Niel y se ha expandido a varios países, incluido España.
+
+Campus 42 es un innovador proyecto educativo en programación y desarrollo de software que ha ganado popularidad por su enfoque no tradicional. Esta iniciativa fue creada originalmente en Francia por el empresario Xavier Niel y se ha expandido a varios países, incluido España.
+
 - No hay profesores ni clases tradicionales. Los estudiantes aprenden a través de proyectos prácticos y colaborativos.
 - Se utiliza un sistema de peer-to-peer learning, donde los estudiantes aprenden unos de otros y se evalúan mutuamente.
 - El currículo se basa en proyectos progresivos que permiten a los estudiantes desarrollar habilidades en programación, algoritmos, y pensamiento lógico.
