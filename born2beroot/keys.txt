@@ -1,0 +1,7 @@
+root		Born2beAdmin
+csubires	Born2beUser
+VLM_Crypt	Born2beCrypt42
+Port host:	4243 / Port guest: 4242
+
+SHA1SUM
+398c76ac58e72c79773c12decd38eafc4e530dc6

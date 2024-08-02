@@ -1,0 +1,92 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Own
+**/obj
+**/objb
+**/obj_bonus
+**/.git
+**/bin
+
+# .vscode
+.DS_Store
+_INTRA/*
+
+# FT_PRINT
+ft_printf/tester
+
+# GET_NEXT_LINE
+get_next_line/tester
+get_next_line/tester_bonus
+
+# MINITALK
+minitalk/client
+minitalk/server
+minitalk/client_bonus
+minitalk/server_bonus
+
+# PIPEX
+z_projects/pipex/pipex
+z_projects/pipex/pipex_bonus
+
+# PUSH_SWAP
+push_swap/checker
+push_swap/push_swap
+
+# fdf
+fdf/fdf
+fdf/fdf_bonus
+fdf/fdf_linux
+
+# Others
+**/glfw/tests/*
